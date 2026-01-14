@@ -5,7 +5,7 @@
 🎓 **Junior Full Stack Developer**  
 💡 Enfocado principalmente en **Java** y **Angular**
 
-Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmente. Me gusta construir aplicaciones web completas, entendiendo tanto el **backend** como el **frontend**, y aplicando buenas prácticas desde el inicio.
+Soy un desarrollador junior con una fuerte motivación por aprender, mejorar continuamente y crecer profesionalmente dentro del sector tecnológico. Me interesa especialmente el desarrollo de aplicaciones web completas, comprendiendo y trabajando tanto el backend como el frontend, lo que me permite tener una visión integral de los proyectos. Disfruto aplicar buenas prácticas desde las primeras etapas del desarrollo, como la escritura de código limpio y mantenible, el uso de patrones adecuados y el control de versiones. Además, me gusta enfrentar nuevos retos técnicos, investigar soluciones por mi cuenta y aprender de otros desarrolladores para seguir ampliando mis conocimientos y habilidades.
 
 ---
 
@@ -32,20 +32,22 @@ Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmen
 - Angular
 - TypeScript
 - Angular Material
-- HTML5 / CSS3 / SCSS
+- HTML / CSS / SCSS
 - RxJS (nivel básico)
 
 ---
 
 ### 🛠️ Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,firebase,postman" />
 </p>
 
-- Git & GitHub
+- Git, GitLab & GitHub
 - Firebase / Firestore
 - Firebase Auth
 - Postman
+- Jira
+- Confluence
 
 ---
 
@@ -78,9 +80,10 @@ Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmen
 
 📖 Profundizando en:
 - Buenas prácticas en Java y Spring
-- Testing básico (JUnit)
+- Testing básico (JUnit/Mockito)
 - Optimización de Angular
 - Git avanzado
+- Desarrollo con IA
 
 ---
 
