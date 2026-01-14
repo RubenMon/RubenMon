@@ -93,9 +93,6 @@ Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmen
     <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml">
     <img src="https://img.shields.io/badge/Infojobs-pink?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="mailto:rubenmonteromartin.mlg@email.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
 </p>
 
 ---
