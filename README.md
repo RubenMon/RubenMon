@@ -91,7 +91,7 @@ Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmen
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
     <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml">
-    <img src="https://img.shields.io/badge/Infojobs-pink?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Infojobs-pink?style=for-the-badge&logo=infojobs"/>
   </a>
 </p>
 
