@@ -90,7 +90,7 @@ Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmen
   <a href="https://www.linkedin.com/in/rubén-montero-martín-16a05b372/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-    <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml">
+    <a href="https://www.infojobs.net/candidate/my-infojobs.xhtml?dgv=4769506582385658485">
     <img src="https://img.shields.io/badge/Infojobs-pink?style=for-the-badge&logo=infojobs"/>
   </a>
 </p>
