@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rubén Montero Martín👨‍💻
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://drive.google.com/file/d/1h6MVOMzF_7gvII48062HNSsxqG3QFw3-/view?usp=sharing)" width="300" align="right"/>
 
 🎓 **Junior Full Stack Developer**  
 💡 Enfocado principalmente en **Java** y **Angular**
