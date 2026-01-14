@@ -87,10 +87,13 @@ Soy un desarrollador junior con muchas ganas de aprender y crecer profesionalmen
 ## 📫 Contacto
 
 <p>
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="https://www.linkedin.com/in/rubén-montero-martín-16a05b372/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:tu-email@email.com">
+    <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml">
+    <img src="https://img.shields.io/badge/Infojobs-pink?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="mailto:rubenmonteromartin.mlg@email.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
