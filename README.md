@@ -92,8 +92,9 @@ Soy un desarrollador junior con una fuerte motivación por aprender, mejorar con
 <p>
   <a href="https://www.linkedin.com/in/rubén-montero-martín-16a05b372/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-[![Email](https://img.shields.io/badge/email-rubenmonteromartin.mlg%40gmail.com-brightgreen)](mailto:rubenmonteromartin.mlg@gmail.com)
 </p>
+[![Email](https://img.shields.io/badge/email-rubenmonteromartin.mlg%40gmail.com-brightgreen)](mailto:rubenmonteromartin.mlg@gmail.com)
+
 
 ---
 
