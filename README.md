@@ -69,7 +69,7 @@ Soy un desarrollador junior con una fuerte motivación por aprender, mejorar con
 🔹 **Biblioteca de Videojuegos**  
 > Java
 
-🔹 **SmileGuest**  
+🔹 **SmileGest**  
 > Angular 
 
 *(Repositorios disponibles en mi perfil)*
