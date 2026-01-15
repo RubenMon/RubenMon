@@ -63,10 +63,10 @@ Soy un desarrollador junior con una fuerte motivación por aprender, mejorar con
 
 ## 📌 Proyectos académicos y personales
 
-🔹 **Aplicación Móvil MarvelInfo(Dart)**  
+🔹 **Aplicación Móvil MarvelInfo**  
 > Dart
 
-🔹 **Bivlioteca de Videojuegos**  
+🔹 **Biblioteca de Videojuegos**  
 > Java
 
 🔹 **SmileGuest**  
