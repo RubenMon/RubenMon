@@ -63,14 +63,14 @@ Soy un desarrollador junior con una fuerte motivación por aprender, mejorar con
 
 ## 📌 Proyectos académicos y personales
 
-🔹 **Aplicación Web Full Stack**  
-> Angular + Java + Spring Boot  
+🔹 **Aplicación Móvil MarvelInfo(Dart)**  
+> Dart
 
-🔹 **Gestión de usuarios**  
-> Angular + Firebase Auth + Firestore  
+🔹 **Bivlioteca de Videojuegos**  
+> Java
 
-🔹 **Proyecto de aprendizaje en Angular**  
-> Formularios reactivos, rutas y Material Design  
+🔹 **SmileGuest**  
+> Angular 
 
 *(Repositorios disponibles en mi perfil)*
 
